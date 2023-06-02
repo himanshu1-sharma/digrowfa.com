@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.digrowfa.digrowfa",
+            "sha256_cert_fingerprints": [
+                "3F:59:69:63:F5:0D:DD:57:19:0A:90:86:8B:E0:BF:60:60:23:18:6C:3D:4A:D4:FE:78:B3:99:45:51:5C:34:42",
+                "05:63:28:A3:FD:C3:A2:78:72:44:37:79:75:68:03:8B:7E:81:FD:C6:98:A4:EC:D1:44:66:FC:08:40:4E:49:97",
+                "6E:33:37:91:31:D8:A5:4C:D3:A8:59:2C:AD:2A:95:2F:26:21:48:0B:BA:F4:8F:60:22:D8:0A:6E:A2:06:6A:A2"
+            ]
+        }
+    }
+]

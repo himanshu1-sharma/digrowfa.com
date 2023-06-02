@@ -1,0 +1,8 @@
+<IfModule mod_headers.c>
+    <Files "/.well-known/assetlinks.json">
+        Header set Content-type "application/json"
+    </Files>
+    <Files "/.well-known/apple-app-site-association">
+        Header set Content-type "application/json"
+    </Files>
+</IfModule>
